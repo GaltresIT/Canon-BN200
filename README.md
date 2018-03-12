@@ -11,3 +11,5 @@
 5. Microsoft Windows 95 Word Viewer Disk 1 - 2
 6. Windows 95 DisplayDriver/ESS Sound Driver Disk 1 - 2
 7. System Utility Setup Disk 1
+
+Contact me at contact@canonnotejet.co.uk with any questions or queries 
