@@ -1,4 +1,4 @@
-# Canon-BN200
+# Canon-BN200 Laptop with Built in MBJ-20 Printer 
 
 ## Dump of Original Canon Floppy disk's that was issued with laptop on initial sale
 
