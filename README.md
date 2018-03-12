@@ -1,6 +1,6 @@
 # Canon-BN200
 
-## Dump of Original Canon Floppy disk's that was issued with laptop on inital sale
+## Dump of Original Canon Floppy disk's that was issued with laptop on initial sale
 
 ### List of Disks are as follows:
 
